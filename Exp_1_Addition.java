@@ -1,6 +1,6 @@
 import java.io.DataInputStream;
 
-public class Addition {
+public class Exp_1_Addition {
     public static void main(final String args[]) {
        
         final DataInputStream in1 = new DataInputStream(System.in);
