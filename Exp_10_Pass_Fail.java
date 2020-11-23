@@ -1,6 +1,6 @@
  import java.util.Scanner;
 
-public class Exp_2_Pass_Fail {
+public class Exp_10_Pass_Fail {
     
     public static void main(String args[]){
        int n;
