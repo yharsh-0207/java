@@ -17,8 +17,8 @@ public class Studentoc{
    public void display(){System.out.println(id+" "+name+" "+age);}  
    
     public static void main(String args[]){  
-    Studentoc s1 = new Studentoc(54,"Kartik");  
-    Studentoc s2 = new Studentoc(53,"Aryan",25);  
+    Studentoc s1 = new Studentoc(58,"Harsh");  
+    Studentoc s2 = new Studentoc(59,"Yadav",18);  
     s1.display();  
     s2.display();  
    }  
